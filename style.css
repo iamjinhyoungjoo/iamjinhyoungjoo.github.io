@@ -1,0 +1,14 @@
+.title-text {
+    font-size: 50px;
+    text-align: center;
+}
+
+#top-level-text {
+    font-size: 70px;
+}
+
+#profile-picture {
+    width: 20%;
+    display: block;
+    margin: auto;
+}
